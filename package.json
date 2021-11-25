@@ -1,0 +1,14 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "The backend for the quiz app",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AbudiMutamba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
